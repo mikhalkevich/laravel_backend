@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Tropical';
+    src: url("../fonts/tropical/Tropical County.ttf");
+}
+body {
+    font-family: 'Tropical';
+}
